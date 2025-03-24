@@ -1,0 +1,1 @@
+/home/wioenena/.config/fish/config.fish
