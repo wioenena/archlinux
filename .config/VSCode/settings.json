@@ -1,1 +1,30 @@
-/home/wioenena/.config/Code - Insiders/User/settings.json
+{
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.minimap.autohide": true,
+  "workbench.colorTheme": "Tsoding Emacs Gruber Minimal",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.activityBar.location": "top",
+
+  // Extensions
+  "codesnap.realLineNumbers": true,
+  "codesnap.roundedCorners": true,
+  "codesnap.showWindowControls": true,
+  "codesnap.showWindowTitle": true,
+  "codesnap.transparentBackground": true,
+  "codesnap.shutterAction": "copy",
+  "codesnap.target": "container",
+  "symbols.hidesExplorerArrows": false,
+  "editor.wordWrap": "on",
+  "window.customTitleBarVisibility": "auto",
+  "vim.disableExtension": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "zig.zls.path": "zls",
+}
